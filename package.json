@@ -1,0 +1,19 @@
+{
+  "name": "latest-node-version",
+  "version": "1.0.0",
+  "description": "This is a simple code for getting latest and current node version",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/LATEST-NODE-VERSION.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/LATEST-NODE-VERSION/issues"
+  },
+  "homepage": "https://github.com/alestor123/LATEST-NODE-VERSION#readme"
+}
