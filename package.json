@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/LATEST-NODE-VERSION/issues"
   },
-  "homepage": "https://github.com/alestor123/LATEST-NODE-VERSION#readme"
+  "homepage": "https://github.com/alestor123/LATEST-NODE-VERSION#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
